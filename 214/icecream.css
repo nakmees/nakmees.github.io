@@ -1,39 +1,29 @@
-<head>
-<style>
-div.container {
-    width: 100%;
-    border: 1px solid gray;
+body{
+	font-family: "Marker Felt", "Comic Sans MS", fantasy;
+	color: #003366;
 }
 
-header, footer {
-    padding: 1em;
-    color: white;
-    background-color: black;
-    clear: left;
-    text-align: center;
+h1 {
+	font-size: 1.3em;
+	text-align: center;
 }
 
-nav {
-    float: left;
-    max-width: 160px;
-    margin: 0;
-    padding: 1em;
+table {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	border-collapse: collapse;
+	cellspacing: 0px;
 }
 
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-   
-nav ul a {
-    text-decoration: none;
+tr {
+	border: 1px solid #ffffff;
+	text-align: center;
+	background-color:#5FD023; 
 }
 
-article {
-    margin-left: 170px;
-    border-left: 1px solid gray;
-    padding: 1em;
-    overflow: hidden;
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: black;
 }
-</style>
-</head>
